@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 - Box Office Analysis
 UofA Data Analytics Bootcamp - Data exploration & clean up, followed by analysis
 
 For this group project, we decided to analyze movie box office data. Not all of the data we wanted was easily available online, so we had to do some webscraping in order to collect opening weekend revenue for movies over the past few years. The webscraping was done via Beautiful Soup, which is saved under the file "Beautiful_Soup" and "BeautifulSoup_OpeningData".
